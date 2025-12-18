@@ -1,3 +1,16 @@
+@media (max-width: 500px) {
+    #display {
+        font-size: 2.5rem;
+    }
+    button {
+        font-size: 1.2rem;
+    }
+    #keys {
+        gap: 5px;
+    }
+}
+
+
 body{
     margin: 0;
     display: flex;
